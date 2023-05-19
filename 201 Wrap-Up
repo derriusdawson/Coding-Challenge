@@ -1,0 +1,14 @@
+What is this repo all about?
+  This repo contains beginner level coding challenges.  It contains Bash and Powershell scripts. 
+Why are you learning these skills?
+    As a cybersecurity professional, it is important to have baseline knowledge of coding.  This can help you automate tasks for clients that they were potentially causing problems with trying to do themselves. 
+What fundamental concepts did you learn in Ops 201?
+  Automation Scripts, defining variables, loops, arrays
+What was your favorite Ops Challenge assignment and why?
+  I enjoyed the Ops Challenges that used Powershell.  I liked those because you can use Powershell ISE which gives you a list of all commands and potential parameters for them. 
+How can these examples of shell scripting be applied to the workplace?
+    You can use shell scripting to automate tasks, as well as to pull valuable information about a PC such as the IP Address, CPU info, and RAM info.
+What scripts would you continue to improve if you had the time?
+    Arrays and Loops
+What aspect of your shell scripting skills do you hope to improve next?
+  I want to improve on writing loops and defining/calling variables. 
