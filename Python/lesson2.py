@@ -1,4 +1,4 @@
- # List in python also none as arrays in other language are used to hold muplitple items under one variable
+ # List in python also known as arrays in other language are used to hold muplitple items under one variable
 numbers = [10, 5, 7, 2, 1]
 
 print("Original list contents:", numbers)
